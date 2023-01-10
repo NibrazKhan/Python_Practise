@@ -1,0 +1,9 @@
+- JSON stands for Java Script Object Notation.
+- Mainly used to get API response in JSON.
+- Can be used as a configuration file to store any important data to reuse it later(read,write,update,delete).
+- First open a json file:
+        - json.load(json_file_location): converts json to a python object.
+        - json.loads(json_file_location): converts json to a python string.
+- Convert python object to Json:
+        - json.dump(python_object, json_file,indent=''): converts python object to a json file.
+        - json.dumps(python_object, json_file,indent=''): converts python object to a json string.

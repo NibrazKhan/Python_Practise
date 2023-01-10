@@ -1,0 +1,12 @@
+- unordered lists which consists of key-value pairs.
+- not sequential unlike lists which index items and positions from left to right.
+- index items using keys.
+- Used for direct searching, let's say you want a specific guys phone number,
+rather than searching all the numbers, if you directly search by name of the number it can be got easily.
+- e.g: phone book searching, searching words in a dictionary.
+- Searching using keys makes it really faster.
+- key:value pair.
+- Have curly braces and have a list of key: value pairs separated by comma.
+- keys aare case sensitive, same name but different cases of the key will be treated differently.
+- can create an empty dictionary using dict() keyword.
+- keys need to immutable.

@@ -1,0 +1,12 @@
+- try/catch in java , try/except in python.
+- python runs code line by line, it is an intepreted language.
+- when we want to run important code and know that this is an error prone code
+we can surround it inside try/except block and prevent program from crashing.
+- When testing, if user mistakenly gives an unwanted input, we donont want
+the user program to be crashed rather show a validation notification message.
+- Therefore we will be able to still run the program successfully even if there is
+unwanted error.
+- only put codes that are error prone in the try block.
+- put the correct code in the else block.
+- finally blocks always execute whether it is an error or not.
+- can raise exception manually as well.

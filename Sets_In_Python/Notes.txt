@@ -1,0 +1,12 @@
+- Sets only takes and returns unique values.
+- Can add element inside sets.
+- for adding multiple values, can pass list inside .update().
+- for removing element use .remove(elem).
+- Will give error if the element to be removed is not in the set.
+- can use discard(elem), doesnot give error when the item to be removed is not in
+the set and removes if it is in the set.
+- Like list: can use .pop(),.clear(),del
+- intersection: returns a set that contains the similarity between two or more sets.
+-  The returned set contains only items that exist in both sets,
+or in all sets if the comparison is done with more than two sets.
+
